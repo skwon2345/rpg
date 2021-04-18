@@ -8,5 +8,9 @@ Create text-based RPG Game with C++.
 * Unit test case
 * Simulation system using Priority Queue
 
+## Language Used
+
+* C++
+
 ## Contributor
 Sukkwon On, and Mr.Chai (Senior Developer)
